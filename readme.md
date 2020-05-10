@@ -13,3 +13,6 @@ Once installed you get the option to scan the QR code in the expo server once sc
 
 Step 03: Scan the QR code in your expo app in mobile to see the development build.
 Step 04: For APKs and IPAs, here are the links.
+
+Android (APK) file: https://drive.google.com/file/d/1Nf0_QFHu2OookjfJMmZ8f68TEA-Q6bXr/view?usp=sharing
+iOS (IPA) file: https://drive.google.com/file/d/1rjXa-WBIvaFTjf4m4MdHmUCDbFzi_7_W/view?usp=sharing
